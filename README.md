@@ -1,7 +1,7 @@
-[ JRM DEVELOPER ]
+[ JRM STORE ]
 
-Esse é im bot de whitelist para fivem que eu desenvolvi e liberei gratuito no meu discord, gratuitamente!
-Qualquer venda dele é extremamente proibida.
-O bot está criptografado para não ter esse risco de vendas.
+Esse é um simples bot de liberar id, para seu servidor de fivem que eu desenvolvi e liberei gratuito no meu discord;
+Qualquer venda desse bot, é extremamente proibida;
+O bot está criptografado, qualquer duvida acesse meu discord;
 
 Discord: https://discord.gg/3wHQUyqrGV
